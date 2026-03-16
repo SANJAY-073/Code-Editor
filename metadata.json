@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Reviewer",
+  "description": "A full-stack application that provides intelligent code reviews, optimization suggestions, and best practices using Gemini AI.",
+  "requestFramePermissions": []
+}
